@@ -72,6 +72,12 @@ a{
     margin-top: 50px;
 }
 
+ul{
+    padding: 0;
+}
+h5{
+    font-size: 16px;
+}
 .project h2 {
     text-align: center;
 }
@@ -157,5 +163,10 @@ hr {
     margin-top: 20px;
     text-align: center;
     padding-bottom: 20px;
+}
+
+.footer p{
+    margin: 10px 10px 0 30px;
+    font-size: 14px;
 }
   }
